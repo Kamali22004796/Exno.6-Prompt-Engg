@@ -88,7 +88,5 @@ This experiment demonstrates that GPT-Neo and GPT-2, while both powerful languag
 # Conclusion
 In conclusion, integrating and comparing outputs from different language models allows developers and researchers to better understand model behavior, quality, and reliability. This experiment highlights the value of prompt engineering and model selection in achieving the desired output for AI-driven applications. GPT-Neo often delivers more detailed explanations, whereas GPT-2 may be quicker but less informative.
 
-
-
-
-# Result: The corresponding Prompt is executed successfully
+# Result: 
+The corresponding Prompt is executed successfully
